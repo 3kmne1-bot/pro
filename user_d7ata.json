@@ -1,0 +1,50 @@
+{
+    "7332265756": {
+        "templates": {},
+        "known_chats": {},
+        "scheduling": {
+            "active": false,
+            "step": "group_type",
+            "templates": [
+                {
+                    "text": "تبادل من 21 حساب"
+                }
+            ],
+            "interval": 120,
+            "count": 99,
+            "last_msg_id": [
+                1408
+            ]
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "تبادل من 21 حساب"
+                },
+                {
+                    "text": "تبادل من 21 حساب"
+                },
+                {
+                    "text": "تبادل من 21 حساب خاص فقط 🎉🩵"
+                }
+            ],
+            "interval": 80,
+            "groups": [
+                "channel:1968310092",
+                "channel:2822510237",
+                "channel:2957864309",
+                "channel:2567208007",
+                "channel:2750261201",
+                "channel:2809297043",
+                "channel:2622938065",
+                "channel:1157841644",
+                "channel:3057970484"
+            ],
+            "last_msg_id": [
+                1417
+            ]
+        }
+    }
+}
